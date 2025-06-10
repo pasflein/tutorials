@@ -15,7 +15,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <hibernate.core.version>5.4.0.Final</hibernate.core.version>
         <h2database.version>1.4.197</h2database.version>
-        <jackson.databind.version>2.9.8</jackson.databind.version>
+        <jackson.databind.version>2.13.0</jackson.databind.version>
     </properties>
   
     <dependencies>
